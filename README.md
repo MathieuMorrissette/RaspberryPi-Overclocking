@@ -1,3 +1,6 @@
+# Information
+Using a Raspberry Pi 3 B+ with smraza case and fan
+
 
 # Monitor Temperature
 ```
