@@ -1,0 +1,36 @@
+16 degrees celsius ambient
+
+pi@raspberrypi:~ $ sh ./overclock_test.sh 
+
+600000
+temp=31.6'C
+1500000
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 4
+
+Doing CPU performance benchmark
+
+Threads started!
+Done.
+
+Maximum prime number checked in CPU test: 50000
+
+
+Test execution summary:
+    total time:                          296.7409s
+    total number of events:              10000
+    total time taken by event execution: 1186.8551
+    per-request statistics:
+         min:                                107.99ms
+         avg:                                118.69ms
+         max:                              23886.93ms
+         approx.  95 percentile:             111.22ms
+
+Threads fairness:
+    events (avg/stddev):           2500.0000/11.64
+    execution time (avg/stddev):   296.7138/0.02
+
+1500000
+temp=53.7'C
