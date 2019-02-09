@@ -17,6 +17,7 @@ arm_freq=1575
 gpu_freq=500
 over_voltage=6
 ```
+Don't go above over_voltage=6 as it will void your warranty
 
 ### Source
 https://eltechs.com/overclock-raspberry-pi-3/
